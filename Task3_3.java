@@ -22,7 +22,6 @@ public class Task3_3 {
             sum += element;
         }
         double avg = sum / lst.size();
-        System.out.println(avg);
         System.out.println("Maximum value: " + max + "\nMinimum value: " + min + "\nAverage: " + avg);
     }
 }
